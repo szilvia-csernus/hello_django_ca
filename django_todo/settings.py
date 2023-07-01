@@ -31,7 +31,8 @@ SECRET_KEY = os.getenv("SECRET_KEY")
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-szilvia-csernus-hello-dj-02zg5paooh.us2.codeanyapp.com']
+    '8000-szilvia-csernus-hello-dj-02zg5paooh.us2.codeanyapp.com',
+    'my-hello-django-ca-version-3eb21f37ea3f.herokuapp.com']
 
 
 # Application definition
